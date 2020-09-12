@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="648fa6ba-7b33-431c-b44f-333e5eb27699" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1diA4pYryLVAYtubFoKr4Jhac7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test.py">
+    <configuration name="test-adi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="secure-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-adi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test-lidor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="secure-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-lidor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="secure-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test-adi.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="secure-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-adi.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="secure-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test.py" />
+        <item itemvalue="Python.test-adi" />
+        <item itemvalue="Python tests.Unittests in test-adi.py" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test-lidor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648fa6ba-7b33-431c-b44f-333e5eb27699" name="Default Changelist" comment="" />
+      <created>1592897351947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592897351947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592897396884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1592897396883" />
+    <state x="357" y="5" width="599" height="233" key="#xdebugger.evaluate" timestamp="1598288605748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2635" y="224" key="#xdebugger.evaluate/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592926890032" />
+    <state x="357" y="5" width="599" height="233" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1598288605748" />
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928807542" />
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928807542" />
+    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928807542" />
+    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928807542" />
+    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.1.bottom" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928809734" />
+    <state width="1259" height="191" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.1.center" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928809734" />
+    <state width="1259" height="191" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.1.left" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928809734" />
+    <state width="1259" height="191" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state width="1259" height="191" key="GridCell.Tab.1.right" timestamp="1598296110625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592928809734" />
+    <state width="1259" height="191" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598296110625" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1592996999596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2381" y="163" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592902231845" />
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592996999596" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1593290796454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1593290796454" />
+    <state width="1264" height="347" key="XDebugger.FullValuePopup" timestamp="1593290295636">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1264" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1593290295636" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1599942609297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599942609297" />
+    <state x="2512" y="65" width="736" height="909" key="find.popup" timestamp="1592922089478">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2512" y="65" width="736" height="909" key="find.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592922089478" />
+    <state x="2621" y="164" key="refactoring.ChangeSignatureDialog" timestamp="1592926601974">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2621" y="164" key="refactoring.ChangeSignatureDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592926601974" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
